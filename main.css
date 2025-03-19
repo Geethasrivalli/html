@@ -1,0 +1,16 @@
+
+.body
+{background-color:pink;}
+body:hover
+{background-color:yellowgreen;}
+.text-white{color:white !important;}
+
+ul >li {list-style:circle}
+ol >li {list-style:disc}
+p {color:brown}
+.p-3{
+  padding: 20px 5px;
+}
+.m-3{
+  margin: 20px;
+}
